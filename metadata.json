@@ -1,0 +1,5 @@
+{
+  "name": "FairAgenda",
+  "description": "Una aplicación web offline para gestionar expositores, reuniones, notas y tareas durante ferias profesionales, con persistencia local y opciones de exportación.",
+  "requestFramePermissions": []
+}
